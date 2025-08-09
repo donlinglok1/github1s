@@ -37,7 +37,7 @@
     "vscode-textmate": "7.0.1",
     "xterm": "4.19.0-beta.58",
     "xterm-addon-search": "0.9.0-beta.39",
-    "xterm-addon-unicode11": "0.4.0-beta.3",
+    "xterm-addon-unicode11": "0.6.0",
     "xterm-addon-webgl": "0.12.0-beta.37"
   },
   "devDependencies": {
